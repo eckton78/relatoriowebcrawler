@@ -16,8 +16,8 @@ determinado assunto sendo expostas com mais clareza e nao com um cunho voltado a
 
 
 ###Liste e descreva os dados que foram coletados:
-Do site ''IMDb'' foram coletados as datas e títulos dos lançamentos presentes no site, já no ''techtudo'' fora utilizada da ''spider''
-para captar, selecionar e transferir noticias do website.
+Do site ''IMDb'' foram coletados as datas e títulos dos lançamentos presentes no site, já no ''techtudo'' e no ''tecnoblog'' 
+fora utilizada da ''spider'' para captar, selecionar e transferir noticias do website.
 
 ###Descreva a estratégia utilizada para fazer a coleta de dados, ou seja, como foi feita a seleção dos dados na estrutura do documento HTML:
 No site ''IMDb'' fora inserido um ''for'' no ''div>#main>h4'' para que fosse possivel obter as datas dentro da tag ''h4'' e também os títulos
